@@ -1,5 +1,7 @@
 const directories = [
-    "index"
+    "index",
+    "login",
+    "top"
 ];
 
 const mix = require('laravel-mix');
